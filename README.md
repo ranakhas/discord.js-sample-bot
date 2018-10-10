@@ -10,7 +10,7 @@ A repository for people who is new to **Discord.js**
   </p>
 
 <p>
-  <a href="https://github.com/NeotiDev/discord.js-sample-bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/NeotiDev/discord.js-sample-bot.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/NeotiDev/discord.js-sample-bot/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/NeotiDev/discord.js-sample-bot.svg?style=for-the-badge" alt="License"></a>
   </p>
   
   <p>
