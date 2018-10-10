@@ -40,7 +40,7 @@ After you have created your application, navigate to the **"Bot"** tab and creat
 Copy the token and enter it to **config.json** of the bot files you downloaded.
 
 ### Run the application
-Run Node.js client, navigate to the folder that you downloaded the files and type `npm start` or `node index.js`
+Run Node.js client, navigate to the folder that you downloaded the files and type `npm start` or `node index.js`.  
 You're ready to go!  
 
 ### Contributing  
