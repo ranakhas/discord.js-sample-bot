@@ -1,4 +1,6 @@
 # discord.js-sample-bot
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot?ref=badge_shield)
+
 A repository for people who are new to **Discord.js**
 
 
@@ -19,6 +21,9 @@ A repository for people who are new to **Discord.js**
   </p>
   </div>
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot?ref=badge_large)
 
 ### Installation Procedure
 #### Install Node.js
@@ -44,4 +49,4 @@ Run Node.js client, navigate to the folder that you downloaded the files and typ
 You're ready to go!  
 
 ### Contributing  
-Feel free to make contributions to the repository!  
+Feel free to make contributions to the repository!
