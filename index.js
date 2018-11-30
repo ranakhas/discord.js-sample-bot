@@ -130,8 +130,9 @@ client.on("message", async message => {
     message.channel.bulkDelete(fetched)
       .catch(error => message.reply(`I'm not able to delete messages because: ${error}`));
   }
-    if(command === "guess")
+  
   let question = args.slice(0).join(' ');
+    if(command === "guess")
     if (!question)
     return message.reply("Please ask a question!");
     var sayings = [ ':8ball: Absolutly.',
