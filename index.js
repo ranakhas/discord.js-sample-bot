@@ -154,7 +154,9 @@ client.on("message", async message => {
         ];
 
         var result = Math.floor((Math.random() * sayings.length) + 0);
-        message.channel.send(sayings[result]);
+       message.channel.send(sayings[result]);
+  
+  if (message.isMentioned(client.user)) { message.reply('Maybe mauwiki know this.'); }
 });
 
 client.login(config.token);
