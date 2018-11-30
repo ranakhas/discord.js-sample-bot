@@ -157,9 +157,6 @@ client.on("message", async message => {
 share improve this question
 asked
 Feb 28 at 16:48
-
-Erkaloth
-
 });
 
 client.login(config.token);
