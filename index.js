@@ -155,7 +155,6 @@ client.on("message", async message => {
         var result = Math.floor((Math.random() * sayings.length) + 0);
         message.channel.send(sayings[result]);
 share improve this question
-asked
 Feb 28 at 16:48
 });
 
