@@ -130,6 +130,7 @@ client.on("message", async message => {
     message.channel.bulkDelete(fetched)
       .catch(error => message.reply(`I'm not able to delete messages because: ${error}`));
   }
+    if(command === "guess")
   let question = args.slice(0).join(' ');
     if (!question)
     return message.reply("Please ask a question!");
@@ -154,8 +155,6 @@ client.on("message", async message => {
 
         var result = Math.floor((Math.random() * sayings.length) + 0);
         message.channel.send(sayings[result]);
-share improve this question
-Feb 28 at 16:48
 });
 
 client.login(config.token);
