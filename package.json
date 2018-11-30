@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-sample-bot",
+  "name": "MauWikiBot",
   "version": "1.0.0",
-  "description": "A starter pack for you to make a quick start to Discord.js.",
+  "description": "A simple bot..",
   "main": "index.js",
   "scripts": {
       "start": "node index.js",
@@ -11,7 +11,7 @@
     "node",
     "discord"
   ],
-  "author": "NeotiDev",
+  "author": "Rana Khashif Sarfraz",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2"
